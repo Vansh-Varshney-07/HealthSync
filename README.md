@@ -1,2 +1,0 @@
-# HealthSync
-AI Health Chatbot
